@@ -1,0 +1,9 @@
+1. using fontawesome to copy the fonts.
+2. copy the cdn link of font awesome.
+3.agar kisi parent k child folder m jana hot ah toh usme ----> ./fie ka naam/ than attach the file.
+4. in this we are using google font which is "Montserrat".
+5.  use on the web copy the link.
+6. Viewport isthat part of broser which is visible to us.
+7. first we are going to style the side bar.
+8. To make the wbsite more responsive we have to give it a padding in the form of rems.
+9. quirksmode.org blog -----------> to get to know about slider and its effects in css.
