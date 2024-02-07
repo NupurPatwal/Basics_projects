@@ -1,0 +1,10 @@
+1. use font awesome to search the different types of fonts.
+2. cdn font awesome is also used i.e content delivery network.
+3. connect the nearest server to your location.
+
+4. border= border box k matlab ye hota hai ki jitni bhi padding /border size uss element ko 
+mile wo size uski height orr width k ander count hona chaiye.
+
+5. it is a good practis eto write border ==border box.
+6. use inspect to the things which are not shown .
+7. color picker is used by different websites to find the true or nearest color.'
