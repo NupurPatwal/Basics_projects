@@ -1,0 +1,3 @@
+a. Jb bhi div kander class denge toh uspr CSS m .class aayega
+
+b. pr jb #krke koi id likhege toh usme #id k naam aayega.
