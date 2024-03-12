@@ -1,2 +1,2 @@
 # Basics_projects
-Projects that builds using HTML and CSS only.
+Projects that builds using HTML, CSS and minor Javascript .
